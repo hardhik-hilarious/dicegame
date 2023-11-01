@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.page{
+    background-color: cadetblue;
+    height: 100vh;
+    background-size: cover;
+}
